@@ -1,0 +1,10 @@
+{
+    "require": {
+        "barryvdh/laravel-debugbar": "~2.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
+    }
+}
